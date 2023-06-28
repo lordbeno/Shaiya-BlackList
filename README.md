@@ -1,4 +1,4 @@
-Shaiya-BlackList
+
 Welcome to the Shaiya-BlackList repository! This project serves as a platform to expose and raise awareness about "hackers" within the popular online game Shaiya.
 
 What is Shaiya?
